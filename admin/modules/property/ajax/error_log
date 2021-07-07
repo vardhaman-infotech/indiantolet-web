@@ -1,0 +1,265 @@
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:47:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:48:20 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:48:20 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:48:20 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:48:20 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 150
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$is_active in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 152
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 160
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 161
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_type_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 163
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$owner_id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 164
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Trying to get property of non-object in /home/u5krg7nbgh6v/public_html/app/functions/functions.php on line 240
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_area in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 165
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$location in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 166
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$property_rent in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 167
+[27-Dec-2018 16:48:23 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$id in /home/u5krg7nbgh6v/public_html/admin/modules/property/ajax/table_ajax.php on line 173
+[19-Nov-2020 14:37:06 Asia/Kolkata] PHP Notice:  Undefined index: order in /home/mydemurc/indiantolet.mydevpartner.website/admin/modules/property/ajax/table_ajax.php on line 13
+[19-Nov-2020 14:37:06 Asia/Kolkata] PHP Notice:  Undefined index: order in /home/mydemurc/indiantolet.mydevpartner.website/admin/modules/property/ajax/table_ajax.php on line 21
+[19-Nov-2020 14:37:06 Asia/Kolkata] PHP Notice:  Undefined index: order in /home/mydemurc/indiantolet.mydevpartner.website/admin/modules/property/ajax/table_ajax.php on line 24
+[19-Nov-2020 14:37:06 Asia/Kolkata] PHP Notice:  Undefined index: order in /home/mydemurc/indiantolet.mydevpartner.website/admin/modules/property/ajax/table_ajax.php on line 27
+[19-Nov-2020 14:37:06 Asia/Kolkata] PHP Notice:  Undefined variable: length in /home/mydemurc/indiantolet.mydevpartner.website/admin/modules/property/ajax/table_ajax.php on line 46
+[19-Nov-2020 14:37:06 Asia/Kolkata] PHP Notice:  Undefined variable: start in /home/mydemurc/indiantolet.mydevpartner.website/admin/modules/property/ajax/table_ajax.php on line 49
+[19-Nov-2020 14:37:06 Asia/Kolkata] PHP Notice:  Undefined variable: length in /home/mydemurc/indiantolet.mydevpartner.website/admin/modules/property/ajax/table_ajax.php on line 49
+[19-Nov-2020 14:37:06 Asia/Kolkata] PHP Notice:  Undefined variable: orderBy in /home/mydemurc/indiantolet.mydevpartner.website/admin/modules/property/ajax/table_ajax.php on line 52
+[19-Nov-2020 14:37:06 Asia/Kolkata] PHP Notice:  Undefined variable: orderBy in /home/mydemurc/indiantolet.mydevpartner.website/admin/modules/property/ajax/table_ajax.php on line 53
+[19-Nov-2020 14:37:06 Asia/Kolkata] PHP Notice:  Undefined variable: length in /home/mydemurc/indiantolet.mydevpartner.website/admin/modules/property/ajax/table_ajax.php on line 136
+[19-Nov-2020 14:37:06 Asia/Kolkata] PHP Notice:  Undefined index: start in /home/mydemurc/indiantolet.mydevpartner.website/admin/modules/property/ajax/table_ajax.php on line 138
+[19-Nov-2020 14:37:06 Asia/Kolkata] PHP Notice:  Undefined index: draw in /home/mydemurc/indiantolet.mydevpartner.website/admin/modules/property/ajax/table_ajax.php on line 139
+[19-Nov-2020 14:37:06 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/mydemurc/indiantolet.mydevpartner.website/admin/modules/property/ajax/table_ajax.php on line 148
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:39:00 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239
+[19-Nov-2020 14:41:39 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/mydemurc/indiantolet.mydevpartner.website/app/functions/functions.php on line 239

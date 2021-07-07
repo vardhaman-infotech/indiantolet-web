@@ -1,0 +1,2188 @@
+@font-face {
+    font-family: 'robotomedium';
+    src: url('../fonts/roboto-medium_0.woff2') format('woff2'),
+         url('../fonts/roboto-medium_0.woff') format('woff');
+   /* font-weight: normal; 
+    font-style: normal;*/  
+
+}
+
+@font-face {
+    font-family: 'robotoregular';
+    src: url('../fonts/roboto-regular_0.woff2') format('woff2'),
+         url('../fonts/roboto-regular_0.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+
+@font-face{font-family:'FontAwesome';src:url('../fonts/fontawesome-webfont.eot?v=4.6.1');src:url('../fonts/fontawesome-webfont.eot?#iefix&v=4.6.1') format('embedded-opentype'),url('../fonts/fontawesome-webfont.woff2?v=4.6.1') format('woff2'),url('../fonts/fontawesome-webfont.woff?v=4.6.1') format('woff'),url('../fonts/fontawesome-webfont.ttf?v=4.6.1') format('truetype'),url('../fonts/fontawesome-webfont.svg?v=4.6.1#fontawesomeregular') format('svg');
+font-weight:normal;
+font-style:normal}
+
+
+/* Header */
+body{font-family: 'robotoregular';}
+h1,h2,h3,h4,h5{font-family: 'robotoregular';}
+/*======================================*/
+img {
+vertical-align: middle;
+max-width: 100%;
+}
+a{text-decoration: none !important;outline: none !important;}
+
+ul{padding: 0 100px !important;}
+
+.navbar{margin-top: 42px;}
+.navbar li a{    padding: 14px 16px;}
+
+li a{    padding: 14px 16px;}
+
+ul li a img{    margin-right: 110px;margin-top: -50px;}
+ul li{margin-top: 47px;}
+
+
+
+.photo {width:261px;height:155px;overflow: hidden;}
+
+.as-produst-lst-rid img{max-height: 114px;max-width: 173px;}
+/*top-bar*/
+.top-bar{margin-top: 5px;}
+.astrology-contact-shape{border:1px solid #e2e2e2;border-radius: 4px;float: left;margin-right: 25px;}
+/*.top-bar ul{padding: 0}*/
+.top-bar ul li{list-style: none;width:48%;float: left;}
+.astrology-contact-shape i {padding:5px;font-size: 28px;color: #01b91b}
+.top-bar-right{margin-top:4px;float: right;}
+.astrology-contact h3{font-size: 15px;color: #141519;font-weight: 600}
+.astrology-contact p{font-size: 13px;color: #5f6d87;}
+.astrology-contact p:hover{color: #d71575;}
+.astrology-contact{border-right:solid 1px #afb6c3;}
+.astrology-login a h2{font-size: 17px;color: #000001;float: left;margin-right:20px;margin-top: 15px;font-weight: 500;}
+.astrology-login a h2:hover{color: #3c008a;}
+.astrology-login a h2 span:hover{color: red;}
+.astrology-login-shape{border-radius: 50%;background: #adb1bb;border:1px #313d54;height: 44px;width: 44px;
+  text-align: center;overflow: hidden;}
+.astrology-login svg:not(:root).svg-inline--fa{font-size:35px;color: #fff}
+.astrology-login{margin-top:14px; margin-left:53px;}
+/*.top-bar ul li:last-child{width: 75%;}*/
+.astrology-contact-shape:hover{background: #415ea4;}
+.astrology-contact-shape i:hover{color: #fff}
+
+
+/********************************/
+/*      nav-bar     */
+/********************************/
+
+.astrology-menu{background: #ff7200;margin-top: 10px;}
+.navbar-default{background-color: transparent;border:none;}
+.nav>li>a{padding: 10px 21px;}
+.navbar-nav{float:none;margin:0 auto;display:inline-block; margin-top: 5px;}
+.navbar{    margin-bottom:0px;}
+
+.navbar-brand{padding:0;margin:0 !important}
+.navbar-nav > li{display:inline-block;float:none;text-align:center;}
+.navbar-default .navbar-nav > li > a{/*color:#181618;*/font-size:16px;outline:none;color: #fff}
+.navbar-default .navbar-nav > li > a i{font-size:22px;color: #fff;    vertical-align: middle;}
+.navbar-default .navbar-nav > li > a:after{padding:0 25px;color:#ddd9d2}
+.navbar-default .navbar-nav > li:last-child > a:after{display:none;}
+
+.navbar-default .navbar-nav>.active>a{color: #3c008a;background: transparent !important;}
+
+.navbar-default .navbar-nav>.active>a i{color: #3c008a;background: transparent !important;}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{color:#3c008a !important; }
+.navbar-default .navbar-nav>li>a:hover {color: #2c599f !important}
+
+.navbar-collapse{padding:0}
+
+
+.searchbar{float:right;width: calc(100% - 4px);}
+
+.searchbar input{width: calc(100% - 50px);float: left;height: 48px;background: none;padding-left:60px;color: #ffffff;
+border: 0;border-left: 1px solid rgba(255, 255, 255, 0.30);}
+.searchbar button {float: left;width: 50px;height: 48px;background: none;color: #ffffff;border: 0;}
+.searchbar input::placeholder {
+    color:#fff;}
+#menu-toggle {
+    display: none;
+}
+#sidebar-wrapper{display: none !important;}
+
+
+
+
+
+/*-- slider --*/ 
+
+.carousel-inner > .item > a > img, .carousel-inner > .item > img{margin:0 auto;}
+.navbar-nav > li { font-size: 15px; margin-left: 15px; }
+.content-area { position: relative;width: auto; margin: 0 auto;}
+
+
+
+#first-slider .main-container {
+  padding: 0;
+}
+
+
+.text-left h3 {color: #fff;font-size:42px;font-weight:600;}  
+.text-left h4 {color: #fff;font-size:32px;}  
+
+.text-left p{color: #fff;font-size: 14px;width:503px;letter-spacing:1px;}
+
+.slider-img img{float: right;}
+
+
+
+#first-slider .carousel-control.right,
+#first-slider .carousel-control.left {
+  background-image: none;
+}
+#first-slider .carousel .item {
+  min-height:511px; 
+  height: 100%;
+  width:100%;
+}
+
+.carousel-inner .item .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+
+#first-slider h3{
+  animation-delay: 1s;text-align: left;
+}
+#first-slider h4 {
+  animation-delay: 2s;
+}
+#first-slider h2 {
+  animation-delay: 3s;
+}
+
+
+#first-slider .carousel-control {
+    width: 6%;
+        text-shadow: none;
+}
+
+
+#first-slider h1 {
+  text-align: center;  
+  margin-bottom: 30px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#first-slider .p {
+  padding-top: 125px;
+  text-align: center;
+}
+
+#first-slider .p a {
+  text-decoration: underline;
+}
+#first-slider .carousel-indicators li {
+    width: 14px;
+    height: 14px;
+    background-color: rgba(255,255,255,.4);
+  border:none;
+}
+#first-slider .carousel-indicators .active{
+    width: 16px;
+    height: 16px;
+    background-color: #ffaf02;
+  border:none;
+}
+
+
+.carousel-fade .carousel-inner .item {
+  -webkit-transition-property: opacity;
+  transition-property: opacity;
+}
+.carousel-fade .carousel-inner .item,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  opacity: 0;
+}
+.carousel-fade .carousel-inner .active,
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+  opacity: 1;
+}
+.carousel-fade .carousel-inner .next,
+.carousel-fade .carousel-inner .prev,
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+  left: 0;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+}
+.carousel-fade .carousel-control {
+  z-index: 2;
+}
+
+.carousel-control .fa-angle-right, .carousel-control .fa-angle-left {
+    position: absolute;
+    top: 50%;
+    z-index: 5;
+    display: inline-block;
+}
+.carousel-control .fa-angle-left{
+    left: 50%;
+    width: 38px;
+    height: 38px;
+    margin-top: -15px;
+    font-size: 30px;
+    color: #fff;
+   /* border: 3px solid #ffffff*/;
+    -webkit-border-radius: 23px;
+    -moz-border-radius: 23px;
+    border-radius: 53px;background: #191f2a;
+}
+.carousel-control .fa-angle-right{
+    right: 50%;
+    width: 38px;
+    height: 38px;
+    margin-top: -15px;
+    font-size: 30px;
+    color: #fff;
+    /*border: 3px solid #ffffff*/;
+    -webkit-border-radius: 23px;
+    -moz-border-radius: 23px;
+    border-radius: 53px;background: #191f2a;
+}
+.carousel-control {
+    opacity: 1;
+    filter: alpha(opacity=100);}
+
+
+/********************************/
+/*      astrology-services      */
+/********************************/
+
+.astrology-services{padding: 35px 0 60px;}
+.astrology-services h2{text-align: center;color: #121317;font-weight: 600;font-size: 30px;}
+.services-heading-p{text-align: center;font-size: 14px;line-height: 26px;color: #5c697f;width: 978px;margin: 0 auto; }    
+.astrology-services-ineer{border-radius: 4px;border:1px solid #ebebeb;background: #f9f9f9;padding:34px 22px 0px;   margin-top: 40px;min-height:159px;
+}
+.astrology-services-ineer img{float: left;padding: 0 20px 26px 0}
+.astrology-services-ineer h3{margin: 0;color: #14181e;font-size: 18px;font-weight: 600}
+.astrology-services-ineer p{color: #515f76;font-size: 14px;padding-top: 10px;line-height: 26px;}
+.astrolgoical-remedies-rid img{height:106px;max-width:60%;}
+
+/********************************/
+/*      about-astrology         */
+/********************************/
+
+.about-astrology{padding: 35px 0;background:url(../images/about-bg-img.png) no-repeat;background-size: cover;width: 100%;}
+.about-astrology h2{text-align: center;color: #14191c;font-weight: 600;font-size: 30px;}
+.about-astrology-p{text-align: center;font-size: 14px;line-height: 26px;color: #5c697f;width:683px;margin: 0 auto; }    
+.about-astrology h3{color: #14191c;font-size: 20px;font-weight: 600;}
+.about-astrology p{color: #4c5a71;font-size: 14px;line-height: 26px;margin-bottom: 30px;}
+.about-astrology-img img{float: right;}
+.about-astrology a button{background: #ff002b;border:none;color: #fff;font-size: 22px;padding: 8px 23px;
+box-shadow: 0px 8px 13px rgba(5, 0, 15, 0.4);}
+.about-astrology a button:hover{background: #ff7200;}
+
+/********************************/
+/*     Astrologers-panel        */
+/********************************/
+
+.astrologers-panel{padding: 35px 0;}
+.astrologers-panel h2{text-align: center;color: #14191c;font-weight: 600;font-size: 30px;}
+.astrologers-panel-p{text-align: center;font-size: 14px;line-height: 26px;color: #5c697f;width:759px;margin: 0 auto;
+margin-bottom: 50px; }
+.filterpanel {background: #fcf7ec;border-radius: 4px;padding:15px 0 115px;}
+.astrologers-panel .filterpanel h3{font-size: 18px;color: #14191c;text-align: center;border-bottom: 1px solid #ff002b;
+padding-bottom:22px;font-weight: 500}
+
+.astrologers-panel label{
+  position: relative;
+  cursor: pointer;
+  color: #585858;
+  font-size:15px;font-weight: 500 !important;
+}
+
+.astrologers-panel input[type="checkbox"], input[type="radio"]{
+  position: absolute;
+  right: 9000px;
+}
+
+/*Check box*/
+.astrologers-panel input[type="checkbox"] + .label-text:before{
+  content: "\f096";
+  font-family: "FontAwesome";
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing:antialiased;
+  width: 1em;
+  display: inline-block;
+  margin-right: 15px;font-size: 25px;vertical-align: middle;color: #ff002b
+}
+
+.astrologers-panel input[type="checkbox"]:checked + .label-text:before{
+  content: "\f14a";
+  color: #ff002b;
+  animation: effect 250ms ease-in;font-size: 25px;vertical-align: middle;
+}
+
+.astrologers-panel input[type="checkbox"]:disabled + .label-text{
+  color: #aaa;
+}
+
+.astrologers-panel input[type="checkbox"]:disabled + .label-text:before{
+  content: "\f0c8";
+  color: #ccc;
+}
+
+.astrologers-panel .form-check{padding: 0 40px;margin:28px 0 35px 0;}
+
+
+.borderlistofastrologer {border: 1px solid #dedede !important;border-radius:4px;margin-bottom: 50px !important;
+padding-bottom: 23px;text-align: center;background: #f9f9f9;}
+
+.borderbottom {border-bottom: 1px solid #ff002b;text-align: center;margin-top:18px;}
+.borderbottom h5{font-size: 14px;font-weight: bold;    margin-bottom: 16px;}
+.borderbottom h3{font-size: 15px;line-height: 1.5;text-align: center;margin: 0 auto;color: #ff002b;}
+.listdetails{text-align: center;padding-top:5px;}
+.listdetails h4{color: #5c5c5c;font-size: 14px;font-weight: 500;margin-bottom: 20px;}
+.borderlistofastrologer a button{background: #ff002b;font-size: 16px;border-radius: 4px;border:none;color: #fff;
+    padding: 9px 33px;margin-top: 10px;}
+.borderlistofastrologer a button:hover{background: #3c008a;}
+.borderlistofastrologer:hover {background: #f0ad4e;border-radius:15px;box-shadow: 0px 2px 6px 2px #d4d0d0;} 
+.borderlistofastrologer {transition: all 0.6s ease;}   
+
+
+
+/********************************/
+/*    Astrolgoical remedies     */
+/********************************/
+
+.astrolgoical-remedies{padding: 35px 0;background: #f3f3f3;}
+.astrolgoical-remedies h2{text-align: center;color: #14191c;font-weight: 600;font-size: 30px;}
+.astrolgoical-remedies-p{text-align: center;font-size: 14px;line-height: 26px;color: #33424b;width:759px;margin: 0 auto;
+margin-bottom:16px; }
+
+.astrolgoical-remedies-rid{background: #fff;text-align: center;padding: 30px 0 36px;border:1px solid #dadada;margin-top: 26px;}
+.astrolgoical-remedies-rid h3{color: #14191c;font-size: 17px;font-weight: 500;margin-top: 10px;}
+.astrolgoical-remedies-rid h4{color: #008aff;font-size: 18px;font-weight: 600;margin-top: 20px;}
+.astrolgoical-remedies-rid a button{border:1px solid #ff002b;border-radius:5px;background:none;color:#ff002b
+;padding: 8px 30px;font-size: 16px;    margin-top: 15px; text-align: center;}
+.astrolgoical-remedies-rid a button:hover{background: #ff002b;transition: all 0.7s ease;color: #fff}
+.more-product a button{border:1px solid #ff002b;border-radius:3px;background:#ff002b;color:#fff
+;padding: 8px 30px;font-size:22px;margin-top: 22px; text-align: center;font-weight: 500}
+.more-product a button:hover{background: #56a546;border: 1px solid #56a546;}
+.more-product{text-align: center;margin-top: 34px;}
+
+
+
+/********************************/
+/*    Astrolgoical footer       */
+/********************************/
+
+.astrolgoical-footer{background: #070f17;padding: 35px 0;}
+.astrolgoical-footer-shaprter{border-bottom: 1px dashed #5c7188;}
+.footer-social { text-align:center;margin-bottom: 30px; }
+.footer-social ul li { display: inline-block; width: 58px; height:58px; text-align: center;padding:16px 0px; margin: 0 13px;
+border-radius: 50%; }
+.footer-social ul li:hover { width:58px; height:58px;background:#49aa48; }
+.footer-social .footer-icon { background: #20272f;}
+.footer-social .footer-icon:hover { opacity: 0.9;}
+.footer-social ul li a { font-size: 20px; color: #fff; }
+.footer-social ul{padding: 0}
+.footer-news h2{font-size: 30px;color: #fff;}
+.footer-sprater{border-bottom: 2px solid #ff002b;width: 124px;margin-bottom: 18px;}
+.footer-news p{font-size:14px;color: #fff;line-height: 26px;width: 381px;}
+.footer-news ul li a{color: #fff;font-size: 15px;line-height:33px;}
+.footer-news ul li a:hover{color: #96c78c;}
+.footer-news ul li{list-style: none;}
+.footer-news ul{padding: 0;}
+.footer-sprater-1{border-bottom: 2px solid #ff002b;width:80px;margin-bottom: 18px;}
+.footer-contact li{width: 100%;}
+.footer-contact p{padding-left: 40px;margin-bottom: 36px;}
+.footer-contact a h5{padding-left: 40px;color: #fff;padding-bottom:8px;}
+.footer-contact a h6{padding-left: 40px;color: #fff;margin-top:31px;font-size: 14px;}
+
+.main-contact {background: url(../images/footer-link-img.png) no-repeat 0 6px;background-position: -77px 0px; width: 50px; height: 50px; float: left;transition: all .2s ease 0s;}
+.footer-mail{background-position: -77px -82px}
+.footer-contact{background-position: -77px -164px;}
+.addres{background-position: -77px 10px;}
+.footer-contact li:hover .footer-mail{background-position: 3px -82px}
+.footer-contact li:hover .addres{background-position:0px 10px;}
+.footer-contact li:hover .footer-contact{background-position:0px -165px;}
+.footer-news input{height: 62px;background: transparent;border: 1px solid #5d6976;box-shadow: none !important;font-size: 15px;
+width:68%;float: left;border-bottom-right-radius:0px;border-top-right-radius:0px;}
+.footer-news .btn{min-height: 62px;
+    border-radius: 0;
+    background:transparent;
+    color: #fff;
+    padding: 0 32px;
+    font-size: 12px;border:1px solid #5d6976;
+    text-transform: uppercase;border-bottom-right-radius:  4px;border-top-right-radius: 4px;
+}
+.copyright h6{color: #96a7ba;font-size: 14px;padding-top: 14px;}
+.copyright{text-align: center;}
+.footer-news .form-control:focus{border-color:#5d6976 !important;color: #fff !important;}
+
+
+/********************************/
+/*         login                */
+/********************************/
+
+/*bradcaam*/
+.inner_link {background:#fce1b4;bottom: 0;width: 100%;padding:15px 0;}
+.inner_link ul{padding: 0;margin-bottom: 0}
+.inner_link li {color: #010101;font-size: 16px;font-weight: 600;display: inline-block;}
+.inner_link li a span {color: #55a546;font-size: 16px;font-weight: 600;}
+.inner_link li a span:after {content: "/ "; padding: 0 8px;}
+
+/*astrology-form*/
+.astrology-form{padding: 25px 0;}
+.astrology-form h2{font-size: 30px;color: #19191e;text-align: center;font-weight:600;margin-bottom:25px;margin-top: 12px;}
+.log-in-shape{background: #ffbfca;border-radius: 50%;height:70px;width:70px;border:none;text-align: center;
+    padding:11px;margin-bottom:7px}
+.sign-up-shape{background: #ffbfca;border-radius: 50%;height:70px;width:70px;border:none;text-align: center;
+margin-bottom:7px}
+.astrology-form-login ul li{display: inline-block;list-style: none;}
+.astrology-form-login ul{padding: 0}
+.astrology-form-login{text-align: center;}
+.astrology-log-in a{font-size: 22px;color: #13151a;font-weight: 600;}
+.astrology-sign-up a{font-size: 24px;color: #13151a;font-weight: 600;}
+.astrology-log-in:after{    content: "";background: url(../images/arrow_dotted.png) no-repeat;width: 157px;
+height: 30px;position: absolute;left: 43%;top: 30px;}
+.astrology-log-in{    margin-right:252px;}
+.panel-login {border-color: #ccc;
+    -webkit-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+    box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);margin-top:20px;
+}
+
+.panel-body{padding:10px 58px 40px;text-align: center;}
+.panel-login h3{color: #101015;font-size: 30px;font-weight: 600;}
+.panel-login p{color: #3b3f4a;font-size:16px;}
+
+
+.group{ 
+  position:relative; 
+  margin-top:30px; 
+}
+.group input        {
+  font-size:16px;
+  padding:7px 7px 5px 2px;
+  display:block;
+  width:100%;
+  border:none;
+  border-bottom:1px solid #8da8c1;/*width:89%;*/
+}
+.group input:focus    { outline:none; }
+
+/* LABEL ======================================= */
+.group label         {
+  color:#4f5f6d; 
+  font-size:16px;
+  font-weight:normal;
+  position:absolute;
+  pointer-events:none;
+  left:5px;
+  top:10px;
+  transition:0.2s ease all; 
+  -moz-transition:0.2s ease all; 
+  -webkit-transition:0.2s ease all;
+}
+
+/* active state */
+.group input:focus ~ label,.chec-kbox input:valid ~ label     {
+  top:-15px;
+  font-size:14px;top: -1rem;
+  color:#5264AE;
+}
+
+/* BOTTOM BARS ================================= */
+.group .bar   { position:relative; display:block; width: 100%; }
+.group .bar:before, .bar:after  {
+  content:'';
+  height:1px; 
+  width:0;
+  bottom:1px; 
+  position:absolute;
+  background:#8da8c1; 
+  transition:0.2s ease all; 
+  -moz-transition:0.2s ease all; 
+  -webkit-transition:0.2s ease all;
+}
+
+.group .bar:before {
+  left:50%;
+}
+.group .bar:after {
+  right:50%; 
+}
+
+/* active state */
+.group input:focus ~ .bar:before, input:focus ~ .bar:after {
+  width:50%;
+}
+
+/* HIGHLIGHTER ================================== */
+.group .highlight {
+  position:absolute;
+  height:60%; 
+  width:100px; 
+  top:25%; 
+  left:0;
+  pointer-events:none;
+  opacity:0.5;
+}
+
+/* active state */
+.group input:focus ~ .highlight {
+  -webkit-animation:inputHighlighter 0.3s ease;
+  -moz-animation:inputHighlighter 0.3s ease;
+  animation:inputHighlighter 0.3s ease;
+}
+
+/* ANIMATIONS ================ */
+@-webkit-keyframes inputHighlighter {
+  from { background:#5264AE; }
+  to  { width:0; background:transparent; }
+}
+@-moz-keyframes inputHighlighter {
+  from { background:#5264AE; }
+  to  { width:0; background:transparent; }
+}
+@keyframes inputHighlighter {
+  from { background:#5264AE; }
+  to  { width:0; background:transparent; }
+}
+.group input:valid ~.control-label{top: -2rem;}
+
+.chec-kbox{text-align: left;margin-top:28px;}
+.chec-kbox .group input:focus ~ label,.chec-kbox input:valid ~ label {
+    top: -15px;
+    font-size: 17px;top: -1rem;;
+    color: #101015;}
+.chec-kbox input[type=checkbox]{height: 20px !important;
+    width: 20px !important;
+    vertical-align: text-bottom !important;}
+.astrology-form-group a button{background: #ff002b;
+    font-size:24px;
+    border-radius: 4px;font-weight: 600;
+    border: none;
+    color: #fff;
+    padding: 6px 58px;
+    margin-top: 10px;float: left;
+}
+.astrology-password a{float: right;font-size: 17px;color: #101015;font-weight: 600;margin-top: 15px;}
+.astrology-password a:hover{color: #2c599f;}
+.astrology-form-group a button:hover{background: #56a546;}
+
+.sign-up-button{margin-top: 39px;}
+
+/********************************/
+/*         About-us             */
+/********************************/
+
+/*astrology-about-us*/
+.astrology-about-us{padding:23px 0;}
+.astrology-about-us h2{font-size: 30px;color: #1a1c23;font-weight: 600;border-bottom:1px dashed #95a3c6 ;
+padding-bottom:14px;}
+.astrology-about-us p{color: #4a546e;font-size: 14px;line-height: 28px;    padding: 0 20px;margin-top: 20px;}
+.astrology-about-us-1{border-bottom:1px solid #c0c0c0;padding-bottom:30px;}
+
+/*astrology-what-we-do*/
+.astrology-what-we-do{padding: 0px 0 20px;}
+.astrology-what-we-do h2{font-size: 30px;color: #1a1c23;font-weight: 600;margin-top: 13px;margin-bottom: 16px;}
+.astrology-what-we-do p{color: #4a546e;font-size: 14px;line-height: 28px;}
+.astrology-what-we-do-point ul li{    padding-bottom: 8px;font-size: 14px;color: #2a303f;}
+
+
+/********************************/
+/* astrology-yellow-sapphire    */
+/********************************/
+
+/*astrology-Shipping-form*/
+.astrology-shipping-form{padding: 52px 0 35px;}
+.astrology-shipping-form p{color: #333333;font-size: 14px;}
+
+
+.cheackout-box{margin-top: 40px;}
+.cheackout-box h2 {
+    border-bottom: 1px solid #2c385e;
+    color: #14151e;font-weight: 600;width: 380px;
+    font-size: 20px;
+    letter-spacing: .06em;
+    padding-bottom: 13px;
+    margin: 0 0 26px;
+}
+.cheackout-box .form-group {
+    margin-bottom: 25px;
+}
+.padding-right5 {
+    padding-right: 5px;
+}
+.cheackout-box label {
+    color: #666666;
+    font-size: 14px;
+    font-weight: normal;
+    letter-spacing: .06em;
+    margin: 0 0 12px;
+}
+.cheackout-box .form-control {
+    border-radius: 0;
+    border: 1px solid #d3d3d3;
+    height: 38px;
+    box-shadow: none;
+}
+.cheackout-box h2 {
+    border-bottom: 1px solid #2c385e;
+    color: #333333;
+    font-size: 20px;
+    letter-spacing: .06em;
+    padding-bottom: 13px;
+    margin: 0 0 26px;
+}
+.delivery-box {
+    margin: 0 0 20px;
+}
+.delivery-box p {
+    font-size: 14px;
+    color: #666;
+    letter-spacing: .06em;
+}
+.radio {
+    padding-left: 20px;
+}
+.radio input[type="radio"] {
+    opacity: 0;
+}
+.radio label {
+    display: inline-block;
+    position: relative;
+    padding-left: 5px;
+    margin: 0 0 8px;
+    padding-top: 3px;
+    width: 100%;
+}
+.radio label::before {
+    top: 4px;
+    content: "";
+    display: inline-block;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 0;
+    margin-left: -20px;
+    border-radius: 50%;
+    background-color: #fff;
+    box-shadow: 0 7px 12px #ebebeb inset;
+    -webkit-transition: border 0.15s ease-in-out;
+    -o-transition: border 0.15s ease-in-out;
+    transition: border 0.15s ease-in-out;
+}
+.radio-primary input[type="radio"] + label::after {
+    background-color: #428bca;
+}
+.radio label::after {
+    display: inline-block;
+    position: absolute;
+    content: " ";
+    width: 9px;
+    height: 9px;
+    left: 4px;
+    top: 8px;
+    margin-left: -20px;
+    box-shadow: 0 7px 12px #fb1a00 inset;
+    border-radius: 50%;
+    background-color: #fff;
+    -webkit-transform: scale(0, 0);
+    -ms-transform: scale(0, 0);
+    -o-transform: scale(0, 0);
+    transform: scale(0, 0);
+    -webkit-transition: -webkit-transform 0.1s cubic-bezier(0.8, -0.33, 0.2, 1.33);
+    -moz-transition: -moz-transform 0.1s cubic-bezier(0.8, -0.33, 0.2, 1.33);
+    -o-transition: -o-transform 0.1s cubic-bezier(0.8, -0.33, 0.2, 1.33);
+    transition: transform 0.1s cubic-bezier(0.8, -0.33, 0.2, 1.33);
+}
+.radio-primary input[type="radio"]:checked + label::after{background-color: #6c6b6b;}
+.radio input[type="radio"]:checked + label::after {
+    -webkit-transform: scale(1, 1);
+    -ms-transform: scale(1, 1);
+    -o-transform: scale(1, 1);
+    transform: scale(1, 1);
+}
+.comment-box p{font-size: 14px;color: #333333;letter-spacing: 0.06em;}
+.comment-box textarea.form-control {
+    height: 168px;
+    background: #f2f2f2;
+    border: 1px solid #d3d3d3;
+    color: #333;
+    font-size: 14px;
+    letter-spacing: 0.06em;
+}
+.cheackout-box .form-control {
+    border-radius: 0;
+    border: 1px solid #d3d3d3;
+    height: 38px;
+    box-shadow: none;
+}
+.cheackout-box .col-sm-4 {
+    padding: 0 10px;
+}
+.apply-btn {
+    background: #f30f35;
+    font-size: 18px;
+    color: #fff;
+    padding: 6px 8px;
+    width:96%;
+    border: none;
+    outline: none;
+}
+.discount .checkbox {
+    margin: 28px 0 0;
+}
+.cheackout-box .form-group {
+    margin-bottom: 25px;
+}
+.magic-radio + label::before, .magic-checkbox + label::before {
+    border: 1px solid #f30f35;background: #ebebeb;
+    content: "";
+    display: inline-block;
+    height: 19px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 19px;
+}
+.discount .text {
+    font-size: 14px;
+    letter-spacing: 0;
+    color: #333333;
+    cursor: default;
+}
+.discount .text a {
+    color: #00b4ff;
+}
+.magic-checkbox:checked + label::before {
+    background: url(../images/cheack.png) no-repeat center;
+}
+.magic-radio:checked + label::after, .magic-checkbox:checked + label::after {
+    display: block;
+}
+.magic-radio + label::after, .magic-checkbox + label::after {
+    content: "";
+    display: none;
+    position: absolute;
+}
+.magic-radio, .magic-checkbox {
+    display: none;
+    position: absolute;
+}
+.magic-radio + label, .magic-checkbox + label {
+    cursor: pointer;
+    display: inline-block;
+    padding-left: 22px;
+    position: relative;
+    vertical-align: top;
+}
+.discount{margin-top: 39px;}
+.astrology-pyment{float: right;}
+
+
+/*astrology-Shipping-deatils*/
+.astrology-Shipping-deatils{padding: 0 0 53px;}
+.astrology-Shipping-deatils thead tr th{padding:16px;background: #fb91a2;color: #191a21;font-size: 17px
+;font-weight: 600}
+.astrology-Shipping-deatils tbody{background: #f2f2f2;}
+.astrology-Shipping-deatils tbody tr td{padding: 20px;font-size: 15px;color: #1a1b20;}
+.astrology-Shipping-deatils .table{border:1px solid #cbcbcb;overflow-x: auto;}
+
+
+.astrolgoical-order a button{border: 1px solid #ff002b;
+    border-radius: 3px;float: right;
+    background: #ff002b;
+    color: #fff;
+    padding: 8px 30px;
+    font-size: 20px;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 500;
+}
+.astrolgoical-order a button:hover{background: #56a546;border: 1px solid #56a546;}
+.padding-left5 .btn-default:hover{background: #56a546;border: 1px solid #56a546;color: #fff;}
+
+
+/********************************/
+/*      astrology-contact       */
+/********************************/
+
+
+
+.left-contact{color: #fff;border:solid 1px #e0e0e0 ;padding:0 35px 33px;}
+
+.contact-section{margin:72px 0 40px 0;}
+.left-contact h2{color: #000;font-size:30px;padding-top: 20px;font-weight: 600;}
+.left-contact p{color: #777777;width:552px;font-size: 14px;padding-top: 8px;}
+
+
+.left-contact .form-control {
+    display: block;
+    width: 100%;
+    height: 45px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #f6f6f7;
+    background-image: none;
+    border: 1px solid #e0e0e0;
+    border-radius: 0px;
+    box-shadow:none;
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+/*#Name{color: #fff;}*/
+
+.left-contact .form-control::placeholder {
+color:#5a5a5a;-webkit-placeholder:color:#5a5a5a;}
+
+ .contact-form{margin-top: 40px;}
+
+ .message-form .form-control {height: 117px;}
+
+
+.left-contact button{border: 1px solid #ff002b;
+    border-radius: 3px;
+    background: #ff002b;
+    color: #fff;    float: right;
+    padding: 8px 47px;
+    font-size: 20px;
+    margin-top: 22px;
+    text-align: center;
+    font-weight: 500;
+  }
+.left-contact .form-group{margin-bottom: 35px;}
+.left-contact button:hover{background: #56a546;color: #fff;border: 1px solid #56a546}
+
+.right-contact-map{color: #fff;border:solid 1px #e0e0e0 ;padding:10px}
+.contact-detalis{margin-top: 40px;}
+.contact-detalis a i{font-size: 35px;color: #2b3034;float: left;    padding-right: 30px;}
+.contact-detalis p{color: #777777;font-size: 14px;font-weight: 500;letter-spacing:.8px;margin-bottom: 20px;}
+.call-deatils a {color: #777777;font-size: 15px;font-weight: 500;letter-spacing:.8px;text-decoration: none;vertical-align: middle;}
+.call-deatils a i{font-size: 35px;color: #2b3034;float: left;    padding-right:21px;}
+.call-deatils{margin-bottom:16px;}
+.mail-deatils a {color: #777777;font-size: 15px;font-weight: 500;letter-spacing:.8px;text-decoration: none;vertical-align: middle;}
+.mail-deatils a i{font-size: 35px;color: #2b3034;float: left; padding-right: 19px;}
+.contact-detalis a i:hover{color:#ffaf02;}
+.footer-addres ul li{list-style: none;}
+.contact-form-1 h5{color: #777777 !important;}
+.footer-contact {padding: 0}
+.contact-form-1 h6{color: #777777 !important;}
+.main-contact-1 {background: url(../images/contact-link-img.png) no-repeat 0 6px;width: 50px; height: 50px; float: left;transition: all .2s ease 0s;}
+.astrolgoical-addres{background-position: -77px 10px; }
+.astrolgoical-footer-mail{background-position: -77px -82px}
+.astrolgoical-footer-contact{background-position: -77px -164px;}
+.footer-contact li:hover .astrolgoical-footer-mail{background-position: 3px -82px}
+.footer-contact li:hover .astrolgoical-addres{background-position:0px 10px;}
+.footer-contact li:hover .astrolgoical-footer-contact{background-position:0px -165px;}
+.right-contact-map{margin-top: 47px;}
+.astrolgoical-contact-right-sec{float: right;}
+.astrolgoical-contact-right-sec{padding-left: 43px;}
+.astrolgoical-addres-p{color: #777777}
+
+
+/********************************/
+/*     astrology-deshbord       */
+/********************************/
+.list-dashboard{display: block;margin: 0;width:25%;float: left;border-color: #ccc;
+-webkit-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.2);-moz-box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.2);
+box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.2);}
+
+.list-dashboard ul li.active a, .list-dashboard ul li:hover a {color: #0090ff;}
+.list-dashboard ul li.active, .list-dashboard ul li:hover {background: #e6e6e6;}
+.list-dashboard  ul li {width: 100%;/*background: #f2f2f2;*/padding:13px 0;color: #3f2e27;
+font-size: 18px;list-style: none;padding-left: 23px;border-top: 1px solid #dfdfdf}
+.list-dashboard ul li a {color: #1b1c22;display: block;font-size: 16px;}
+.list-dashboard ul li i {font-size:16px;margin-bottom: 15px;}
+.dashboard_contain{padding: 74px 0 50px 0;}
+.list-dashboard  ul{padding: 0}
+.astrologers-admin-img{height: 98px;width: 98px;border-radius: 50%;text-align: center;margin: 0 auto;
+  margin-top: 32px;    overflow: hidden;background: #fff;}
+.list-dashboard h3{color: #15bcc5;font-size: 17px;text-align: center;margin-bottom: 32px;}
+.list-dashboard img{margin-right: 21px;}
+.astrologers-admin-img img{    height: 98px;
+    width: 98px;}
+.astrology-login-shape img{height: 44px;
+    width: 44px;}
+
+.dashboard_data {float: left;display: block;width:75%;border: 1px solid #dadcde;background: #f6f8fa;}
+.header_dashbord{background: #0090ff;padding: 18px 20px 22px;width: 100%;display: block;}
+.header_dashbord h2 {font-size: 22px;color: #fff;text-align: left;margin: 0;font-weight: 500;}
+.deshb-rd-right{    display: block;padding:45px 40px;width: 100%;}
+.dashboard_data h4{color: #0090ff;font-size: 20px;margin: 0}
+.deshb-rd-right .table>thead>tr>th{border-bottom: 1px solid #c5c5c5;}
+.deshb-rd-right .table{background: #fff;margin-top: 19px;border-bottom: 1px solid #c5c5c5;}
+.deshb-rd-right .table>thead>tr>th{font-size: 16px;color: #121217;}
+.deshb-rd-right .table>tbody>tr>td{padding: 17px 18px;font-size: 14px;color: #4d5372;}
+.deshb-rd-right .table>tbody>tr>td>a>svg:not(:root).svg-inline--fa{color:#4d5372;}
+.deshb-rd-right .table>tbody>tr>td>a>svg:not(:root).svg-inline--fa:hover{color: #49aa48;}
+
+.account-information h2{color: #0090ff;font-size: 20px;margin: 0;margin-top: 10px;
+  border-bottom: 1px solid #c5c5c5;padding-bottom: 18px;}
+.dsh-account-information{background: #fff;padding: 20px 17px;margin-bottom: 20px;}  
+.dsh-account-information input {color: #333744;font-size: 14px;border: 1px solid #d3d3d3;height: 38px;
+padding: 0 10px;width: 100%;font-weight:500;margin-bottom: 21px;}
+
+.dsh-account-information svg:not(:root).svg-inline--fa{font-size:30px;color: #0090ff;float: left;padding-right:10px;
+margin-right:6px;vertical-align: middle;}
+
+.dsh-account-information h5 a{font-size: 15px;color: #0090ff;}
+.dsh-account-information h5 a:hover{color: #d71575;text-decoration:block;}
+.dsh-account-information h4 a{font-size: 20px;color: #0090ff;}
+.dsh-account-information h4 a:hover{color: #d71575;}
+.dsh-account-information h6{color: #333744;font-size:14px;padding-bottom: 10px;}
+
+.as-manage-addresses h2{color: #0090ff;font-size: 20px;margin: 0;margin-top: 10px;
+  border-bottom: 1px solid #c5c5c5;padding-bottom: 18px;}
+.dsh-manage-addresses{background: #fff;padding: 20px 17px;}
+.dsh-manage-addresses h1{color: #1b1f23;font-size: 16px;padding-bottom: 10px;margin-top: 7px;}
+.dsh-manage-addresses p{color: #485865;font-size: 14px;}
+.dsh-addersh-icon svg:not(:root).svg-inline--fa{margin-top: 10px;font-size:20px;color: #0090ff;}
+.dsh-addersh{float: left;    width: 86%;}
+
+/********************************/
+/*     astrology-profile       */
+/********************************/
+.check_pass{margin-left: -397px;}
+.as-profile-right{display: block;padding: 45px 40px 48px;width: 100%;}
+.as-profile-right h4{color: #0090ff;font-size: 20px; margin: 0; margin-top:4px;border-bottom: 1px solid #c5c5c5;
+padding-bottom: 18px;}
+
+.as-profile-acc-info{background: #fff;padding: 20px 32px 34px;}
+.as-profile-acc-info input{width: 100%;margin-bottom:20px;color: #333744;font-size: 14px;border: 1px solid #c5c5c5;
+height:37px;padding: 0 10px;width: 100%;}
+.as-profile-acc-info h2{color: #0090ff;font-size: 16px;padding-bottom: 8px;}
+/*.as-profile-ch-pass{margin-top: 26px;}*/
+.as-profile-ch-pass a button{border: 1px solid #ff002b;border-radius: 3px;background: #f30f35;color: #fff;
+padding: 8px 57px;font-size: 22px;margin-top: 22px;text-align: center;font-weight: 500;}
+.as-profile-ch-pass a button:hover{background: #56a546;border: 1px solid #56a546}
+
+/********************************/
+/*     astrology-deshbord       */
+/********************************/
+.as-order-detail-right{display: block;padding: 45px 40px 48px;width: 100%;}
+.as-order-detail-right h4{color: #010101;font-size:24px; margin: 0; margin-top:4px;padding-bottom: 18px;font-weight: 500;
+;margin-bottom: 18px;}
+.as-order-detail-point:before{border:5px solid #000;}
+
+.bs-wizard {border-bottom: solid 1px #e0e0e0; padding: 0 0 10px 0;}
+.bs-wizard > .bs-wizard-step {padding: 0; position: relative;}
+.bs-wizard > .bs-wizard-step + .bs-wizard-step {}
+.bs-wizard > .bs-wizard-step .bs-wizard-stepnum {color: #595959; font-size: 16px; margin-bottom: 5px;}
+.bs-wizard > .bs-wizard-step .bs-wizard-info {color: #999; font-size: 14px;padding-top: 1px;text-align: center;
+    padding-right:0px;}
+.bs-wizard > .bs-wizard-step > .bs-wizard-dot {position: absolute; width:58px; height:58px; display: block; background: #fac296; top:8px; left:41%;
+ margin-top: -15px; margin-left: -15px; border-radius: 50%;text-align: center;padding: 12px;} 
+.bs-wizard > .bs-wizard-step > .progress {position: relative; border-radius: 0px; height: 8px; box-shadow: none; margin: 20px 0;}
+.bs-wizard > .bs-wizard-step > .progress > .progress-bar {width:0px; box-shadow: none; background: #cccccc;}
+.bs-wizard > .bs-wizard-step.complete > .progress > .progress-bar {width:100%;}
+.bs-wizard > .bs-wizard-step.active > .progress > .progress-bar {width:50%;}
+.bs-wizard > .bs-wizard-step:first-child.active > .progress > .progress-bar {width:0%;}
+.bs-wizard > .bs-wizard-step:last-child.active > .progress > .progress-bar {width: 100%;}
+.bs-wizard > .bs-wizard-step.disabled > .bs-wizard-dot:after {opacity: 0;}
+.bs-wizard > .bs-wizard-step:first-child  > .progress {left: 56%; width: 70%;}
+.bs-wizard > .bs-wizard-step:last-child  > .progress {width:43%;}
+.progress{background-color: #cccccc;}
+.bs-wizard-info h3{color: #111417;font-size: 16px;font-weight: 500}
+.bs-wizard-info h4{color: #435665;font-size: 14px;}
+/*END Form Wizard*/
+
+.as-order-detail-1 h2{float: left;width: 50%;vertical-align: text-top;font-size: 16px;margin-top: 0
+  ;font-weight: 500;}
+
+.as-order-detail-1-1 h2{    margin-top: 12px;font-size: 16px;font-weight: 500;}
+.as-order-detail-pending h3{background: #fff; margin-left: 171px;border:1px solid #dfdfdf;font-size: 16px;
+ padding: 5px 0;margin-right: 48px;font-weight: 500;}
+
+.as-order-detail-label{margin-bottom: 15px}
+.as-order-detail-all p{color: #363b45;font-size: 15px;font-weight: 500}
+
+.astrology-Shipping-deatils{padding: 0 0 53px;}
+.as-order-detail-right thead tr th{padding:16px;background: #fb91a2;color: #191a21;font-size: 17px
+;font-weight: 600}
+.as-order-detail-right tbody{background: #f2f2f2;}
+.as-order-detail-right tbody tr td{padding: 20px;font-size: 15px;color: #1a1b20;}
+.as-order-detail-right .table{border:1px solid #cbcbcb;overflow-x: auto;}
+.as-order-detail-right .table-responsive{margin-top: 40px;}
+
+
+/********************************/
+/*     astrology-appoinment       */
+/********************************/
+
+.as-appoinment-right{display: block;padding:45px 40px 122px;width: 100%;}
+.as-appoinment-right h4{color: #0090ff;font-size: 20px;margin: 0}
+.as-appoinment-right .table>thead>tr>th{border-bottom: 1px solid #c5c5c5;}
+.as-appoinment-right .table{background: #fff;margin-top: 19px;border-bottom: 1px solid #c5c5c5;}
+.as-appoinment-right .table>thead>tr>th{font-size: 16px;color: #121217;}
+.as-appoinment-right .table>tbody>tr>td{padding: 17px 18px;font-size: 14px;color: #4d5372;}
+.as-appoinment-right .table>tbody>tr>td>a>svg:not(:root).svg-inline--fa{color:#4d5372;}
+.as-appoinment-right .table>tbody>tr>td>a>svg:not(:root).svg-inline--fa:hover{color: #49aa48;}
+
+/********************************/
+/*  astrology-Manage Addresses  */
+/********************************/
+
+.as-manage-add-right{display: block;padding: 45px 40px 48px;width: 100%;}
+.as-manage-add-right h4{color: #0090ff;font-size: 20px; margin: 0; margin-top:4px;padding-bottom: 18px;}
+/*.as-manage-add-info{background: #fff;padding: 20px 32px 34px;}*/
+
+.as-manage-billing-add{background: #fff;padding:9px 50px 28px;border:1px solid #e0e0e0;
+margin-bottom: 26px;height: 247px;}
+.as-manage-billing-add h2{font-size: 16px;color: #1b1f23;font-weight: 500;margin-bottom:20px;}
+.as-manage-billing-add h5{font-weight:300;font-size: 14px;color: #485865;margin-bottom:14px;}
+.as-manage-billing-add p{font-size: 14px;color: #485865;line-height: 24px;}
+.as-manage-billing-add h3{font-size: 14px;color: #485865;font-weight: 400;margin-top: 10px;}
+.as-manage-billing-add-add ul{padding: 0;    margin-top: 19px;}
+.as-manage-billing-add-add li {color: #010101;font-size: 16px;font-weight: 600;display: inline-block;}
+.as-manage-billing-add-add li a {font-size: 16px;color: #0090ff;font-weight: 400;}
+.as-manage-billing-add-add  li a span:after {content: "l";padding: 0 8px;}
+
+.as-manage-add{background: #fff;padding:58px 107px;border:1px solid #e0e0e0;/*margin-left:20px;*/
+  text-align: center;height: 247px;}
+.as-manage-add a h2{font-size: 23px;color:rgba(160,160,160,0.7);font-weight: 600;}
+.as-manage-add-info h1{font-size: 20px;color: #0090ff;margin-top:35px;margin-bottom: 30px;}
+
+.as-manage-add-form label{color: #191b1f;font-size: 15px;font-weight:500;margin: 0 0 11px;}
+.as-manage-add-form .form-control{border-radius: 0px;height: 44px;margin-bottom: 25px;}
+.as-manage-add-form a button{    border: 1px solid #ff002b;border-radius: 3px;background: #f30f35;color: #fff;
+padding: 10px 40px;font-size: 20px;margin-top: 22px;text-align: center;font-weight: 500;}
+.as-manage-add-form a button:hover{background: #56a546;border: 1px solid #56a546;}
+
+
+/*  ////////////////////////////////
+             astrology-deatils
+     ///////////////////////////////  */
+
+.astrology-deatils{padding: 30px 0 30px;}
+.astrology-deatils h2{text-align: center;color: #121317;font-weight: 600;font-size: 30px;}
+
+.astrology-panal-text{float: left;}
+.astrology-panal-text3{margin-left:180px;margin-top: 14px;}
+.astrology-panal-text3 .form-check{display: inline-block;margin: 0px 0 15px 0;width: 16%;}
+.astrology-deatils .filterpanel{    padding: 15px 40px;    margin-top: 30px;}
+.astrology-deatils input[type="checkbox"] + .label-text:before {
+    content: "\f096";
+    font-family: "FontAwesome";
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    width: 1em;
+    display: inline-block;
+    margin-right: 15px;
+    font-size: 25px;
+    vertical-align: middle;
+    color: #ff002b;
+}
+.astrology-deatils input[type="checkbox"]:checked + .label-text:before {
+    content: "\f14a";
+    color: #ff002b;
+    animation: effect 250ms ease-in;
+    font-size: 20px;
+    vertical-align: middle;
+}
+.astrology-deatils input[type=checkbox]{display: none;}
+
+.astrology-deatils label {
+    position: relative;
+    cursor: pointer;
+    color: #585858;
+    font-size: 15px;
+    font-weight: 500 !important;
+}
+.astrology-deatils .filterpanel h3{font-size: 18px;
+    color: #14191c;
+    text-align: center;
+    padding-bottom: 18px;
+    font-weight: 500;
+    line-height:13px;}
+
+.astrology-panal-text3 a button{border: 1px solid #ff002b;
+    border-radius: 3px;
+    background: #f30f35;
+    color: #fff;
+    padding:7px 39px;
+    font-size:15px;
+   /* margin-top: 22px;*/
+    text-align: center;
+    font-weight: 500;}
+.as-astrologer{margin-top:20px;}
+.astrology-panal-text3 a button:hover{background: #56a546; border: 1px solid #56a546; }
+
+/*  ////////////////////////////////
+             modal
+     ///////////////////////////////  */
+
+.modal-dialog {width:851px;}
+.modal-body{padding: 25px 42px 35px;}
+.modal-title{text-align: center;font-size: 20px;color: #fff;padding: 15px 0;}
+.modal-header{padding: 0;border-radius: 6px;background: #ff6c00;border-bottom-left-radius: 0;border-bottom-right-radius: 0}
+.modal-body h4{margin: 0;color: #1b1c20;font-size: 18px;font-weight:500;font-weight: 600;}
+.modal-body p{color: #676a79;font-size: 14px;padding-top: 10px;margin-bottom:13px;}
+
+.modal-body input[type="radio"]:checked + .label-text:before {
+    content: "\f192";
+    color: #70768f;
+    animation: effect 250ms ease-in;font-size: 25px;
+
+}
+.modal-body input[type="radio"] + .label-text:before {
+    content: "\f10c";
+    font-family: "FontAwesome";font-size: 25px;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    width: 1em;
+    display: inline-block;
+    margin-right: 5px;color: #70768f;vertical-align:sub;}
+
+
+
+.modal-body label span{font-size:16px;color: #0096ff;font-weight:500;    margin-right: 10px;cursor: pointer;}
+.modal-body label{margin-right: 18px;}
+
+.booking-radoi-bnt{border-bottom: 1px solid #bec2d2;padding-bottom: 17px;    margin-bottom: 21px;}
+
+.modal-body label {
+    color: #2e3644;
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0 0 8px;
+}
+.modal-body .form-control {
+    border-radius: 2px; /*#f5f5f5;*/
+    height:38px;background:rgb(245,245,245,0.7);
+    margin-bottom:15px;
+}
+.modal-gateway h2{color: #2e3644;font-size:16px;float: left;margin-right:14px;margin-top: 14px;}
+.modal-gateway img{margin:7px 15px 0 0;}
+.modal-button .modal-book{border: 1px solid #ff002b;border-radius: 3px;background: #ff002b;color: #fff;
+padding: 9px 35px;font-size:20px;text-align: center;font-weight: 500;    margin-right: 30px;}
+.modal-button{margin-top:30px;}
+.modal-button .modal-close{border: 1px solid #909090;border-radius: 3px;background: #909090;color: #fff;
+padding: 9px 35px;font-size:20px;text-align: center;font-weight: 500;}
+.modal-gateway{margin-top: 22px;}
+
+
+
+/*  ////////////////////////////////
+            astrology-product
+     ///////////////////////////////  */
+.astrology-product{padding:25px 0 30px;}
+.astrology-product h2{text-align: center;color: #121317;font-weight: 600;font-size: 30px;}
+.astrology-product p{text-align: center;color: #60647d;font-size:14px;width: 698px;
+  line-height: 28px;margin: 0 auto;margin-bottom: 50px;}
+.productpanel{background: #fcf7ec;border-radius: 4px;padding: 8px 0 70px;}
+.productpanel h3 {font-size: 18px;color: #14191c;text-align: center;border-bottom: 1px solid #ff002b;
+padding-bottom: 18px;font-weight: 500;}
+.product-name ul{padding: 0;padding-left: 35px;}
+.product-name ul li {list-style: none;border-bottom: 1px solid #d1d1d1;padding-bottom:18px;margin-right: 20px;
+margin-bottom: 18px;}
+.product-name ul li a{font-size: 15px;color: #585858;font-weight: 500;}
+.product-name {padding-top: 14px;}
+
+.product-name ul li.active a{color: red !important;}
+
+.as-produst-lst-rid{background: #fff;text-align: center;padding:20px 0 33px;border: 1px solid #dadada;
+margin-bottom:25px;min-height: 291px;}
+.as-produst-lst-rid h3 {color: #14191c;font-size: 17px;font-weight: 500;margin-top: 20px;}
+.as-produst-lst-rid h4 {color: #008aff;font-size: 18px;font-weight: 600;margin-top: 20px;}
+.as-produst-lst-rid a button {border: 1px solid #ff002b;border-radius: 5px;background: none;color: #ff002b;
+padding: 8px 30px;font-size: 16px;margin-top: 15px;text-align: center;}
+.as-produst-lst-rid a button:hover {background: #ff002b;transition: all 0.7s ease;color: #fff;}
+
+.product-name ul li:last-child{border:none;}
+
+
+
+/*  ////////////////////////////////
+        astrology-product-deatils
+     ///////////////////////////////  */
+
+.product-deatils-bradcam:before{    content: "/ ";padding: 0 8px;}
+.as-product-deatils{padding:70px 0 55px;;}
+.as-product-deatils-img{height:222px;border: 1px solid #d9d9d9;width:318px;text-align: center;padding:48px; }
+.as-product-all-deatils h3{color: #121318;font-size: 18px;font-weight: 600;margin: 0;}
+.as-product-all-deatils p{color: #4d5374;font-size: 14px;line-height: 26px;padding-top: 11px;}
+.as-product-all-deatils h5{color: #18181d;font-size: 16px;font-weight: 600;}
+.sas-product-all-deatils-rew ul li{list-style: none;color: #ff6600;font-size:17px;display: inline-block;
+  padding-right: 5px;float: left;}
+.sas-product-all-deatils-rew ul{padding: 0;margin-top: 15px;}
+.as-product-all-deatils-reviwe ul li{padding-right: 10px;list-style: none;color: #008aff;font-size:17px;display: inline-block;
+  padding-right:28px;font-weight: 500}
+.as-product-all-deatils-reviwe{margin-left:115px;}
+.as-product-all-deatils-reviwe ul li a{color: #008aff}
+.as-product-all-deatils-reviwe ul li a:hover{color: #55a546;font-weight: 500}
+.as-product-all-deatils h2{color: #f30f35;font-size: 20px;}
+.as-product-all-deatils a button{border: 1px solid #ff002b;border-radius: 3px;background: #ff002b;color: #fff;
+padding:7px 50px;;font-size: 24px;margin-top: 22px;text-align: center;font-weight: 500;}
+.as-product-all-deatils a button:hover{background: #56a546;border: 1px solid #56a546;}
+
+/*astrolgoical-Related Product*/
+.as-related-product h2{color: #121318;font-size: 30px;font-weight: 600;margin-bottom:35px;}
+.as-related-product{padding-bottom: 70px;}
+
+/*  ////////////////////////////////
+         astrology-order-confirm
+     ///////////////////////////////  */
+
+.as-order-confirm{padding: 35px 0 60px;}
+.as-order-confirm h2{color: #1b1e25;font-size: 20px;font-weight: 500;}
+.as-order-confirm p{color: #586174;font-size:14px;}
+.as-shipping-addres h3{color: #f30f35;font-size: 20px;font-weight: 500;}
+.as-shipping-addres-deta{background: #f2f2f2;width: 604px;padding: 31px 0 31px 31px;}
+.as-shipping-addres-deta address{color: #363b45;font-size: 15px;width:352px;font-weight:500;line-height:25px;
+margin-bottom: 0}
+.as-shipping-addres-deta h5{color: #363b45;font-size: 15px;font-weight:500}
+.as-order-confirm-table{margin-top: 43px;}
+.as-order-confirm-table thead tr th{padding: 16px;
+    background: #fb91a2;
+    color: #191a21;
+    font-size: 17px;
+    font-weight: 600;
+}
+.as-order-confirm-table .table {
+    border: 1px solid #cbcbcb;
+    overflow-x: auto;
+}
+.as-order-confirm-table tbody {
+    background: #f2f2f2;
+}
+.as-order-confirm-table tbody tr td {
+    padding: 20px;
+    font-size: 15px;
+    color: #1a1b20;}
+
+.as-order-confirm-btna a button{border: 1px solid #ff002b;
+    border-radius: 3px;
+    background: #ff002b;
+    color: #fff;
+    padding:8px 37px;float: right;
+    font-size:20px;
+    margin-top: 22px;
+    text-align: center;
+    font-weight: 500;}
+
+.as-order-confirm-btna a button:hover{background: #56a546;
+    border: 1px solid #56a546;}
+
+
+
+/*  ////////////////////////////////
+      astrologer-appointment-deatils
+     ///////////////////////////////  */
+.as-appoinment-deatil-right{display: block;padding:38px 40px 40px;width: 100%;/*background: #fff;*/}
+.astrologer-appo-image{width: 261px;height: 155px;background: #000;border-top-right-radius: 3px;
+border-top-left-radius: 3px;overflow: hidden;}
+.astrologer-appo-image img{width: 100%;}
+.as-appo-detail-label{padding-bottom:35px;}
+.as-appo-detail-1-1 h2 {
+    float: left;
+    width: 50%;
+    vertical-align: text-top;
+    font-size: 15px;
+    margin-top: 0;
+    font-weight: 500;color: #3d3e4b;
+}
+.as-appo-detail-1-1 h2 {
+    margin-top:0px;
+    font-size: 15px;
+    font-weight: 500;color: #3d3e4b;
+}
+.as-appo-detail-1 h2{ float: left;
+    width:35%;
+    vertical-align: text-top;
+    font-size: 15px;
+    margin-top: 0;
+    font-weight: 500;color: #3d3e4b;
+}
+.astrologer-appot{background: #fff;padding: 45px 0 20px 28px;}
+.astrologer-appot h4{color: #1197ff;font-size: 15px;padding-bottom: 10px;}
+.astrologer-rateing ul{padding: 0;}
+.astrologer-rateing ul li{list-style: none;color: #ff6600;font-size: 17px;display: inline-block;padding-right: 5px;}
+.astrologer-rateing{padding-bottom:10px;}
+.astrologer-details-btnn a button{    border: 1px solid #ff002b;
+    border-radius: 3px;
+    background: #ff002b;
+    color: #fff;
+    float: right;
+    padding: 9px 43px;
+    font-size: 20px;
+    margin-top: 22px;
+    text-align: center;
+    font-weight: 500; }
+
+.astrologer-details-btnn a button:hover{background: #56a546;
+    color: #fff;
+    border: 1px solid #56a546;}
+
+.astrologer-appot table{margin-top:5px;}
+.astrologer-appot h1{color: #0090ff;font-size: 20px;margin-top: 30px;}
+
+.astrologer-appot .table>tbody>tr>td{padding-left: 17px;color: #4d5372;font-size: 14px;}
+.astrologer-appot .table>thead>tr>th{border-bottom: 0px;color: #121217;font-weight:600;}
+
+/*  ////////////////////////////////
+             astrology-blog
+     ///////////////////////////////  */
+.astrology-blog{padding:55px 0 15px;}     
+
+.as-blog-img .as-date-tag {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background-color: #ff6f00;
+    color: #ffffff;
+    border-radius: 3px;
+    z-index: 1;
+    width: 70px;
+    text-align: center;
+    padding: 10px 0px;
+    text-transform: capitalize;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.as-blog-img .as-date-tag {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background-color: #ff6f00;
+    color: #ffffff;
+    border-radius: 3px;
+    z-index: 1;
+    width: 70px;
+    text-align: center;
+    padding: 10px 2px;
+    text-transform: capitalize;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.as-blog-img {
+    float: left;
+    width: 100%;
+    position: relative;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.as-blog-img img {
+    display: inline-block;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;height: 184px;width: 100%;
+}
+
+.as-blog-img::after {
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;width: 100%;
+}
+.as-blog-box:hover .as-date-tag {
+    top: -15px;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;right:8px;
+}
+.as-blog-box:hover .as-blog-img::after {
+    opacity: 1;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;right:8px;
+}
+.as-blog-info {
+    float: left;
+    width: 100%;
+    text-align: left;
+    padding-top: 20px;
+    position: relative;
+}
+.as-blog-info ul.as-blog-info-text {
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+    position: absolute;
+    top: -42px;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.as-blog-info ul.as-blog-info-text li {
+    list-style: none;
+    float: left;
+    width: auto;
+    margin-right: 15px;
+}
+.as-blog-info ul.as-blog-info-text li a {
+    font-size: 13px;
+    color: #ffffff;
+    text-transform: capitalize;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.as-blog-info ul.as-blog-info-text li a svg:not(:root).svg-inline--fa {
+    color: #ff6f00;
+    margin-right: 5px;
+}
+.as-blog-info .as-blog-info-heading {
+    float: left;
+    width: 100%;
+    margin-top: 0px;font-size: 17px;color: #1a1c23;font-weight: 500;
+}
+.as-blog-info .as-blog-info-heading a {
+    color: #333333;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.asblog-info .as-blog-info-heading {
+    float: left;
+    width: 100%;
+    font-weight: 300;
+    margin-top: 0px;
+}
+.as-blog_info .ast_btn {
+    margin-top: 10px;
+}
+.as-btn {
+    display: inline-block;
+    padding: 10px 21px;
+    background-color: #ff002b;
+    color: #ffffff;
+    text-transform: capitalize;
+    border: 1px solid #ff002b;
+    border-radius: 3px;
+    text-align: center;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;margin-top: 13px;
+}
+.as-btn:hover{background: #56a546;border: 1px solid #56a546;color: #fff;outline: none;
+box-shadow: none;
+-webkit-transition: all 0.5s;
+-moz-transition: all 0.5s;
+-ms-transition: all 0.5s;
+-o-transition: all 0.5s;
+transition: all 0.5s;}
+
+.ast-blog-info-details{color: #4a546e;
+    font-size: 14px;
+    line-height: 24px;}
+
+.as-blog-box{margin-bottom:7px !important;float: left;min-height: 355px;}    
+
+
+/*  ////////////////////////////////
+        astrology-blog-deatils
+     ///////////////////////////////  */
+
+.astrology-blog-deatils{padding:55px 0 0px;}   
+
+
+.as-blog-img-1 .as-date-tag {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background-color: #ff6f00;
+    color: #ffffff;
+    border-radius: 3px;
+    z-index: 1;
+    width: 70px;
+    text-align: center;
+    padding: 10px 0px;
+    text-transform: capitalize;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.as-blog-img-1 .as-date-tag {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background-color: #ff6f00;
+    color: #ffffff;
+    border-radius: 3px;
+    z-index: 1;
+    width: 70px;
+    text-align: center;
+    padding: 10px 2px;
+    text-transform: capitalize;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.as-blog-img-1 {
+    float: left;
+    width: 100%;
+    position: relative;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.as-blog-img-1 img {
+    display: inline-block;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;height:480px;width: 100%;
+}
+
+.as-blog-img-1::after {
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    bottom: 0px;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;width: 100%;
+}
+
+.as-blog-info-heading-1{float: left;
+    width: 100%;
+    margin: 10px 0 15px;
+    font-size:26px;
+    color: #1a1c23;
+    font-weight: 500;
+}
+
+.as-date-tag-1{position: absolute;
+    top: -15px;
+    right: 15px;
+    background-color: #ff6f00;
+    color: #ffffff;
+    border-radius: 3px;
+    z-index: 1;
+    width: 70px;
+    text-align: center;
+    padding: 10px 2px;
+    text-transform: capitalize;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;}
+
+
+
+/*  ////////////////////////////////
+             media quries
+     ///////////////////////////////  */
+ @media (max-width:1300px) {
+.astrology-contact-shape{margin-right:11px;}
+.astrology-login{margin-left: 18px;}
+.astrology-login a h2{    font-size: 15px;}
+.nav>li>a {
+    padding: 10px 10px;}
+#first-slider .carousel .item{min-height: 100%;}
+.astrology-services-ineer{    padding: 34px 18px 0px;}
+.astrology-services{padding: 10px 0 30px;}
+.about-astrology{padding: 10px 0 30px;}
+.astrologers-panel{padding: 0}
+.astrolgoical-remedies{padding: 10px 0;}
+.footer-news p{width: 100%;}
+.left-contact p{width: 100%;}
+.left-contact h2{font-size: 23px;padding-top: 0}
+.left-contact p{padding-top: 0px;}
+.contact-form {margin-top: 30px;}
+.left-contact{padding: 0 20px 33px;}
+.list-dashboard img {margin-right: 11px;}
+.list-dashboard ul li a{font-size: 14px;}
+.deshb-rd-right .table > thead > tr > th{font-size: 15px;}
+
+.as-product-deatils{padding: 37px 0 28px;}
+.as-product-deatils-img{width: 299px;}
+.as-related-product {padding-bottom: 50px;}
+.as-related-product h2{margin-bottom: 18px;font-size: 24px;}
+.as-product-all-deatils h3{font-size: 16px;}
+.as-product-deatils-img{width: 224px;}
+.as-product-deatils-img{height: 182px;}
+.as-product-deatils {padding: 21px 0 35px;}
+.as-product-all-deatils h3{margin-top: 20px;}
+.as-product-deatils-img{text-align: center;margin: 0 auto}
+.as-product-deatils{padding: 21px 0 11px;}
+.as-related-product{padding-bottom: 15px;}
+.as-product-deatils-img{height: 84px;width: 105px;padding: 13px;}
+.as-product-all-deatils h3{font-size: 14px;letter-spacing: 0.6px;text-align: center;}
+.as-product-all-deatils p{text-align:center;}
+.as-product-all-deatils-reviwe ul li{padding-right: 3px;font-size: 13px;}
+.as-product-all-deatils-reviwe{ margin-left: 80px;}
+.as-product-all-deatils a button{padding: 6px 36px;margin-top: 8px;font-size: 19px;}
+.as-related-product h2{font-size: 19px;margin-top: 6px;text-align: center;}
+.as-related-product{padding-bottom: 0px;}
+.astrolgoical-remedies-rid img{width: 80%;}
+.astrologer-appo-image{height: 100%;width: 100%;}
+.photo{width: 100%;}
+.astrology-panal-text3 .form-check{width: 16%;}
+.astrology-deatils {padding: 30px 0 0;}
+.check_pass {margin-left: -246px;}
+
+}
+
+
+
+
+
+
+@media (max-width:991px) {
+.top-bar ul li{width: 100%;}
+.astrology-login{margin-left: 0;}
+.astrology-contact{border-right:none;}
+.navbar-default .navbar-nav > li > a{font-size: 15px;padding: 10px 0px;}
+#first-slider .carousel .item{min-height:0;}
+.astrology-services { padding: 0px 0 30px;}
+.services-heading-p{width: 100%;}
+.astrology-services-ineer h3{font-size: 14px;}
+.astrology-services-ineer img{padding: 0 12px 20px 0;}
+.astrology-services-ineer p{font-size: 13px;line-height: 20px;}
+.astrology-services-ineer{padding: 26px 6px 0px;min-height: 141px;}
+.about-astrology{padding: 0 0 30px;}
+.about-astrology p{margin-bottom: 15px;}
+.astrologers-panel{padding: 0 0 0px;}
+.form-check{padding: 0 19px;}
+.form-check{margin: 0 0 25px 0}
+.listdetails h4{font-size: 13px;}
+.borderlistofastrologer a button{padding: 6px 22px;}
+.astrolgoical-remedies{padding: 0 0 20px;}
+.more-product{margin-top: 0;}
+.footer-news p{width: 100%;}
+.footer-news input{height: 57px;width: 62%;}
+.footer-news .btn{min-height: 57px;}
+.footer-contact p{margin-bottom: 20px;}
+.footer-news p{line-height: 20px;}
+.footer-contact a h6{margin-top: 27px;}
+.astrolgoical-footer{padding: 20px 0;}
+.footer-news h2{font-size: 23px;}
+.astrologers-panel-p{width: 100%;}
+.astrolgoical-remedies-p{width: 100%;}
+.about-astrology p{width: 100%;}
+#first-slider .carousel-control.right, #first-slider .carousel-control.left{display: none;}
+.astrology-log-in::after{left: 40%;}
+.panel-login p{font-size: 15px;margin-bottom: 0}
+.panel-login h3{font-size: 23px;}
+.panel-body{padding: 2px 36px 25px;}
+.group{margin-top: 33px;}
+.chec-kbox{margin-top: 20px;}
+.astrology-form-group a button{font-size: 20px;padding: 6px 51px;}
+.inner_link{    padding: 15px 0;}
+.astrology-about-us{padding: 0px 0;}
+.astrology-about-us h2,.astrology-what-we-do h2{font-size: 25px;}
+.astrology-about-us p{padding: 0 0px;margin-top: 0px;}
+.astrology-about-us-1{padding-bottom: 0;}
+.astrolgoical-contact-right-sec {padding-left: 15px;}
+.left-contact button{margin-top: 0;}
+.contact-section {margin: 40px 0 40px 0;}
+.astrolgoical-contact-right-sec{margin-top: 25px;}
+.footer-contact p { margin-bottom: 30px;}
+.footer-contact a h5{padding-bottom: 18px;}
+
+.list-dashboard ul li{padding-left: 6px;}
+.list-dashboard ul li a{font-size: 12px;}
+.list-dashboard img{margin-right: 4px}
+.deshb-rd-right .table > thead > tr > th{font-size: 13px;}
+.table > thead > tr > th{vertical-align: middle;}
+.deshb-rd-right .table > tbody > tr > td{padding: 17px 12px;font-size: 12px;}
+.deshb-rd-right{padding: 45px 30px;}
+.deshb-rd-right{padding:11px 20px;}
+.dashboard_contain{padding: 45px 0 50px 0;}
+.modal-dialog {width: 100%;}
+.check_pass { margin-left:-86px; }
+.product-name ul{padding-left: 18px;}
+.as-produst-lst-rid img{max-width: 100%;}
+.navbar-nav > li{margin-left: 14px;}
+.astrology-product{padding: 0px 0 30px;}
+.astrology-product p{margin-bottom: 20px;}
+.bootbox .modal-dialog{width:100%;}
+
+
+} 
+
+@media (max-width:767px) {
+.mneu-mt{float: right;}
+.search-mt{float: left;}
+.text-left h3{font-size: 25px;}
+.text-left h4{font-size: 20px;}
+.carousel-control.right, #first-slider .carousel-control.left{display: none;}
+.astrology-services h2,.about-astrology h2,.astrologers-panel h2,.astrolgoical-remedies h2{font-size: 20px;}
+.astrology-services-ineer{margin-top: 20px;}
+.astrology-services-ineer{min-height: 124px;}
+.about-astrology-img img{display: none;}
+.form-check{display: inline-block;}
+.filterpanel{padding: 1px 0 0;;margin-bottom: 25px;}
+.astrologers-panel-p{margin-bottom: 15px;}
+.borderlistofastrologer{margin-bottom: 25px !important;}
+.astrolgoical-remedies-rid{margin-bottom: 20px;}
+.more-product a button{margin-top: 0px;}
+.main-contact{height: 40px;}
+.footer-contact a h6{margin-top: 17px;}
+.navbar-header{display: none;}
+/* my*/
+.menu { display: none; }
+  #sidebar-wrapper {
+    margin-right: -250px; display: block !important;
+    right: 0;
+    width: 250px;
+    background: rgb(0,0,0);
+    position: fixed;
+    height: 100%;
+    overflow-y: auto;
+    z-index: 1000;
+    transition: all 0.5s ease-in 0s;
+    -webkit-transition: all 0.5s ease-in 0s;
+    -moz-transition: all 0.5s ease-in 0s;
+    -ms-transition: all 0.5s ease-in 0s;
+    -o-transition: all 0.5s ease-in 0s;    top: 156px;
+  }
+
+  .sidebar-nav {
+    position: absolute;
+    top: 0;
+    width: 250px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .sidebar-nav li {
+    line-height: 50px;
+    text-indent: 20px;
+  }
+
+  .sidebar-nav li a {
+    color: #fff;
+    display: block;
+    text-decoration: none;
+  }
+
+  .sidebar-nav li a:hover {
+    color: #fff;
+    background: rgba(255,255,255,0.2);
+    text-decoration: none;
+  }
+
+  .sidebar-nav li a:active, .sidebar-nav li a:focus {
+    text-decoration: none;
+  }
+
+  .sidebar-nav > .sidebar-brand {
+    height: 55px;
+    line-height: 55px;
+    font-size: 18px;
+  }
+
+  .sidebar-nav > .sidebar-brand a {
+    color: #999999;
+  }
+
+  .sidebar-nav > .sidebar-brand a:hover {
+    color: #fff;
+    background: none;
+  }
+
+  #menu-toggle {
+    top: 0;display: block !important;
+    right: 0;
+    height:42px;
+    z-index: 1;
+  }
+  .btn-group-lg > .btn, .btn-lg{padding: 8px 16px;}
+
+  #sidebar-wrapper.active {
+    right:250px;
+    width: 250px;
+    transition: all 0.5s ease-out 0s;
+    -webkit-transition: all 0.5s ease-out 0s;
+    -moz-transition: all 0.5s ease-out 0s;
+    -ms-transition: all 0.5s ease-out 0s;
+    -o-transition: all 0.5s ease-out 0s;
+  }
+
+  .toggle {margin:5px 0 0 89px;}
+
+.astrology-menu .btn-primary{background: transparent;border:1px solid #fff !important;}
+.astrology-menu .btn-primary:active:hover{background: transparent;}
+.searchbar input{padding-left: 8px;}
+.astrology-log-in::after{display: none;}
+
+.as-appoinment-deatil-right{padding: 19px 27px 20px;}
+.astrologer-appo-image{width: 261px;margin-bottom: 20px;}
+.astrologer-appot{padding: 14px 0 0 15px;}
+.astrologer-appot h1{margin-top: 22px;}
+.astrologer-details-btnn a button{margin-bottom: 15px;}
+.astrology-product p{width: 100%;} 
+.top-bar ul li{width:50%;}
+.check_pass { margin-left:-86px; }
+.productpanel h3{padding-bottom: 14px;margin-top: 8px;}
+.product-name {padding-top: 3px;}
+.product-name ul li{padding-bottom: 8px;margin-bottom: 8px;}
+.productpanel{padding: 8px 0 1px;margin-bottom: 20px;}
+.astrology-deatils {padding: 13px 0 0;}
+
+
+
+
+} 
+
+@media (max-width:550px) {
+.top-bar ul li{width:100%;}   
+.astrology-contact{display: none;}
+.astrology-login a h2{font-size: 13px;margin-right: 10px;}
+.astrology-login{margin-top: 0px;margin-left: 25px;}
+.astrology-login-shape{height: 35px;width: 35px;}
+.astrology-login svg:not(:root).svg-inline--fa{font-size: 26px;}
+.searchbar input{width: calc(100% - -56px);padding-left: 4px;}
+.searchbar button{display: none;}
+.astrology-login-shape{line-height: 52px;}
+#first-slider h3{text-align: center;}
+#first-slider h4{text-align: center;font-size: 16px;}
+.text-left p{display: none;}
+.slider-img img{display: none;}
+.text-left h3{font-size: 21px;margin-top: 0px;}
+.carousel-indicators{bottom: -6px;left: 47%;}
+.astrology-services-ineer img{float: none;}
+.astrology-services-ineer{min-height:123px;text-align: center;}
+.astrology-services-ineer p{display: none;}
+.astrology-services-ineer h3{font-weight: 500}
+.borderbottom h5{font-size: 13px;}
+.borderlistofastrologer{min-height:420px;padding-bottom: 0;}
+.astrolgoical-remedies-rid img{max-height: 100%;}
+.modal-gateway img {margin: 7px 8px 0 0;}
+.searchbar {
+    float: right;
+    width: calc(100% - -13px);
+}
+.astrolgoical-remedies-rid h4{font-size: 17px;margin-top: 11px;}
+.astrolgoical-remedies-rid{padding:12px 10px 16px;margin-top: 0px;}
+.astrolgoical-remedies-rid h3{font-size: 14px;}
+.astrolgoical-remedies-rid a button{padding: 8px 25px;font-size: 13px;margin-top: 6px;}
+.toggle {margin: 5px 0px 0 9px;}
+.astrology-menu .btn-primary{background: transparent;border:1px solid #fff !important;}
+.astrology-menu .btn-primary:active:hover{background: transparent;}
+#sidebar-wrapper{top: 68px;}
+.footer-social ul li{width: 40px;height: 40px;padding: 10px 9px;margin: 0 3px;}
+.footer-social ul li a {font-size: 16px;}
+.footer-social{    margin-bottom: 10px;}
+.footer-news h2 {font-size: 20px;}
+.footer-sprater{margin-bottom: 10px;}
+.footer-news input {height: 46px;}
+.footer-news .btn {min-height: 46px;}
+.footer-news ul li{padding-right: 19px;display: inline-block;}
+.footer-contact a h5,.footer-contact a h6{margin-top: 0;}
+.copyright h6{padding-top: 6px;}
+.astrology-services h2, .about-astrology h2, .astrologers-panel h2, .astrolgoical-remedies h2 {font-size:18px;}
+.about-astrology h3{font-size: 16px;margin-top: 0;}
+.borderbottom h3 {font-size: 12px;}
+.borderlistofastrologer a button {padding: 6px 17px;}
+.astrology-services-ineer {padding: 8px 6px 0px;}
+.about-astrology a button{    padding: 7px 21px;font-size: 17px;}
+.more-product a button{padding: 8px 18px;font-size: 18px;}
+.astrology-log-in {margin-right: 37px;}
+.log-in-shape{height:50px;width:50px;padding:8px;margin-bottom: 15px;}
+.sign-up-shape{height:50px;width:50px;margin-bottom: 15px;}
+.astrology-log-in a,.astrology-sign-up a{font-size: 15px;}
+.astrology-form h2{font-size:16px;margin-bottom: 17px;}
+.astrology-form{padding: 0px 0;}
+.panel-login{margin-top:9px;}
+.panel-login h3 { font-size:17px;}
+.panel-login p {font-size: 13px;}
+.group { margin-top:26px;}
+.panel-body {padding: 2px 15px 25px;}
+.astrology-password a{float: left;font-size: 13px;}
+.chec-kbox .group input:focus ~ label, input:valid ~ label{font-size: 13px;}
+.astrology-form-group a button{margin-top: 0px;font-size: 16px;padding: 7px 46px;}
+.footer-news p{margin-bottom: 20px;}
+.inner_link{    padding: 11px 0;}
+.group label{font-size: 14px;}
+.inner_link li,.inner_link li a span{font-size: 14px;}
+.astrology-about-us h2, .astrology-what-we-do h2{font-size:17px;}
+.astrology-about-us h2{margin-top: 10px;}
+.astrology-about-us h2{padding-bottom: 8px;t/*ext-align: center;*/}
+.astrology-about-us p,.astrology-what-we-do p{font-size: 13px;line-height: 24px;/*text-align: center;*/}
+.astrology-what-we-do h2{/*text-align: center*/;margin-bottom: 6px;}
+.contact-section { margin: 15px 0 20px 0;}
+.left-contact h2{font-size: 17px;}
+.left-contact .form-group { margin-bottom: 17px;}
+.left-contact button{float: none;}
+.astrolgoical-contact-bt{text-align: center;}
+.left-contact {padding: 0 20px 14px;}
+.left-contact button{padding: 6px 42px;font-size: 16px;}
+.footer-contact a h5 {  padding-bottom: 25px;}
+.right-contact-map {margin-top: 25px;}
+.photo{width: 100%;}
+.astrologers-panel label{text-align: center;    margin: 0 auto;}
+.astrologers-panel .form-check{width: 20%;    margin: 0 0 16px 0;padding: 0 6px;font-size: 13px;}
+.astrologers-panel input[type="checkbox"] + .label-text:before{margin-right: 0px;}
+.list-dashboard{width: 100%;}
+.astrologers-admin-img{margin-top: 15px;}
+.dashboard_contain{padding: 23px 0 27px 0;}
+.list-dashboard h3{margin-bottom: 16px;}
+.dashboard_data{width: 100%;margin-top: 20px;}
+.header_dashbord{padding: 10px 20px 16px;}
+.header_dashbord h2{font-size: 20px;}
+.deshb-rd-right{padding: 14px 20px;}
+.dashboard_data h4{margin-bottom: 11px;}
+.dsh-account-information svg:not(:root).svg-inline--fa,.dsh-addersh-icon svg:not(:root).svg-inline--fa{display: none;}
+.dsh-account-information{padding: 0px 17px;}
+.right-contact{margin-top: 20px;}
+
+.chec-kbox .group input:focus ~ label, .chec-kbox input:valid ~ label{font-size: 14px;}
+.astrologers-panel label{font-size: 13px;}
+.astrolgoical-remedies-p{    margin-bottom: 16px;}
+
+
+.list-dashboard{width: 100%;}
+.dashboard_data{width: 100%;margin-top: 20px;}
+.as-profile-right{padding: 10px 7px 25px;}
+.as-profile-acc-info{padding: 20px 11px 20px;}
+.as-profile-right h4{font-size:16px;}
+.header_dashbord h2{font-size: 19px;}
+.header_dashbord{padding: 10px 10px 10px;}
+.as-profile-acc-info input{margin-bottom: 13px;}
+.as-profile-acc-info h2{font-size: 14px;}
+.as-profile-ch-pass{margin-top: 16px;}
+.as-profile-ch-pass a button{padding: 5px 43px;font-size: 19px;margin-top: 3px;}
+.footer-social ul li:hover{height: 40px;width: 40px;}
+.main-contact{height:41px; }
+.astrologers-admin-img{height: 70px;width: 70px;margin-top: 13px;}
+.list-dashboard h3{margin-bottom: 11px;font-size: 15px;margin-top: 10px;}
+.dashboard_contain{padding: 16px 0 20px 0;}
+.footer-news p{font-size: 13px;}
+.footer-news ul li a{font-size: 14px;}
+.astrolgoical-footer{padding: 20px 0 0px;}
+.bs-wizard > .bs-wizard-step > .bs-wizard-dot{width: 40px;height: 40px;margin-top: -7px;padding: 10px;}
+.as-order-detail-right{padding: 7px 20px 7px;}
+.as-order-detail-right h4{font-size: 18px;padding-bottom: 0;}
+.bs-wizard-info h3{font-size: 13px;margin-top: 5px;}
+.as-order-detail-right h4{font-size: 14px;}
+.bs-wizard > .bs-wizard-step .bs-wizard-info{padding-right: 13px;}
+.bs-wizard{padding:0;}
+.as-order-detail-1 h2{font-size: 14px;}
+.as-order-detail-1-1 h2{font-size: 14px;}
+.as-order-detail-pending h3{margin-left: 118px;margin-right: 39px;}
+.as-order-detail-all p{font-size: 14px;}
+.as-order-detail-right .table-responsive{margin-top: 4px;}
+.as-order-detail-right thead tr th{padding: 14px;font-size: 14px;}
+.as-appoinment-right{padding: 14px 20px 0;}
+.as-appoinment-right h4{font-size: 16px;margin-bottom: 15px;}
+.as-manage-add-right{padding: 6px 9px 10px;font-size: 17px;}
+.as-manage-add-right h4{font-size: 17px;margin-top: 4px;padding-bottom: 10px;}
+.as-manage-billing-add{margin-right: 0;padding: 0 20px 0px;height: 214px;}
+.as-manage-billing-add h2{font-size: 15px;margin-bottom: 10px;margin-top: 10px;}
+.as-manage-add{padding:15px 0;margin-left: 0px;margin-top: 10px;margin-bottom: 13px;height:92px;}
+.as-manage-add img{width: 10%;}
+.as-manage-add a h2{font-size: 19px;margin-top: 10px;margin-bottom: 0px;}
+.as-manage-add-info h1{font-size: 16px;margin-bottom: 8px;}
+.as-manage-add-form label{font-size: 13px;margin: 0 0 4px;}
+.as-manage-add-form .form-control{margin-bottom: 10px;height: 38px;}
+.as-manage-add-form a button{margin-top: 5px;padding: 7px 21px;margin-top: 5px;font-size:16px;}
+.as-order-detail-right tbody tr td{    font-size: 14px;}
+.astrologer-appot{padding: 14px 0 0 0;}
+.astrologer-appo-image{width: 100%;}
+.as-appo-detail-1 h2,.as-appo-detail-1-1 h2{font-size: 14px;}
+.astrologer-details-btnn a button{float: none;margin-top: 5px;}
+.astrologer-details-btnn{text-align: center;}
+.astrologer-appot h1{font-size: 18px;margin-top: 8px;margin-bottom:15px;}
+.astrology-deatils .filterpanel{padding: 15px 9px;}
+.astrology-panal-text3 .form-check{width: 49%;}
+.astrology-deatils input[type="checkbox"]:checked + .label-text::before {font-size: 15px;}
+.astrology-deatils input[type="checkbox"] + .label-text::before {margin-right: 5px;font-size: 19px;}
+.astrology-panal-text3{margin-left:0px;}
+.astrology-deatils .filterpanel{margin-top: 10px;}
+.astrology-deatils .filterpanel{padding:1px 9px;}
+.astrology-deatils .filterpanel h3{line-height: 25px;padding-bottom:0px;margin-top: 5px;}
+.astrology-panal-text{float: none;}
+.astrology-deatils {padding: 0px 0 0px;}
+.astrology-deatils h2{font-size: 16px;margin-top: 18px;}
+.as-astrologer{margin-top: 0;}
+.cheackout-box h2{width: 100%;}
+.cheackout-box{margin-top: 10px;}
+.cheackout-box h2{font-size: 15px;padding-bottom: 7px;}
+.astrology-shipping-form {padding: 14px 0 0px;}
+.cheackout-box h2{margin: 0 0 15px;}
+.padding-right5{margin-bottom: 7px;}
+.discount {margin-top: 24px;}
+.padding-right5 {padding-right: 15px;}
+.apply-btn{width: 100%;}
+.discount .text{font-size: 12px;}
+.checkbox label, .radio label{padding-left:15px;}
+.cheackout-box .form-group {margin-bottom: 6px;}
+.astrology-Shipping-deatils{    padding: 0 0 15px;}
+.list-dashboard ul li a img{ width: 8%;}
+.astrology-about-us-1{padding: 6px 0 !important;}
+.astrology-product h2{font-size: 16px !important;margin-top: 11px !important;}
+.astrology-product {padding: 6px 0 28px !important;}
+.astrology-product p{margin-bottom: 12px;}
+.productpanel h3{margin-top: 0px;}
+.productpanel{padding: 5px 0 0;}
+.as-profile-acc-info #hide_pass{margin-left: 30px;height: 25px;}
+.astrologer-appot h4{padding-bottom: 0px;}
+.dsh-addersh{    width: 100%;}
+.check_pass{margin-left:0px;}
+.links{padding: 3px;}
+.astrology-product p{font-size: 13px;line-height: 23px;}
+.as-produst-lst-rid img {max-width: 80%;    max-height: 82px;}
+.as-produst-lst-rid h3{font-size: 15px;margin-top: 10px;}
+.as-produst-lst-rid h4{margin-top: 12px;font-size: 16px;}
+.as-produst-lst-rid a button{padding: 8px 25px;font-size: 13px;margin-top:6px;}
+.as-produst-lst-rid{padding: 20px 0 0;min-height:223px;}
+.productpanel h3{padding-bottom: 9px;}
+.modal-dialog{margin: 10px 0 !important;}
+.modal-title{font-size: 16px;padding: 3px 0;}
+.modal-body {padding: 19px 23px 35px;}
+.modal-body h4{font-size: 15px;}
+.modal-body label span{font-size: 14px;}
+.modal-body input[type="radio"]:checked + .label-text::before {font-size: 21px;}
+.booking-radoi-bnt{padding-bottom: 8px;margin-bottom: 11px;}
+.dsh-account-information h4 a{font-size: 16px;}
+.as-blog-img-1 img{height: 222px;}
+.astrology-blog-deatils {padding: 13px 0 0px;}
+.as-blog-info{padding-top: 10px;}
+.as-blog-info-heading-1{font-size: 20px;margin: 3px 0 5px;}
+.as-blog-box {margin-bottom: 5px !important;margin-top: 15px;}
+.astrology-blog {padding: 12px 0 25px;}
+.as-btn{margin-top: 0px;margin-bottom: 10px;}
+.photo img{max-width: 100%;height: 100%;}
+.listdetails h4{    margin-bottom: 13px;}
+.as-order-detail-right tbody tr td{padding: 14px;}
+.dashboard_data .table > tbody > tr > td h5{font-size: 15px !important;}
+.cheackout-box .col-sm-4{padding:0 15px;}
+.cheackout-box .form-control{margin-bottom: 14px;}
+.apply-btn {width: 40%;}
+.modal-button .modal-book,.modal-button .modal-close{padding: 7px 27px !important;font-size: 18px !important;}
+.as-blog-box{}
+
+}  
+/*  ////////////////////////////////
+         astrology-thankyou
+     ///////////////////////////////  */ 
+
+.astrology-about-us-1-2{text-align: center;padding: 35px 0;}
+.astrology-about-us-1-1 h2{
+    color: #121317;
+    font-weight: 600;
+    font-size: 30px;margin-top: 0}
+
+.astrology-about-us-1-1 p {
+    color: #4a546e;
+    font-size: 14px;
+    line-height: 28px;
+    padding: 0 20px;border-bottom: 1px solid #c0c0c0;    padding-bottom: 14px;} 
+
+.astrology-about-us-1-1 h4 {
+    color: #4a546e;
+    font-size: 15px;
+    line-height: 28px;
+    padding: 0 20px;}
+.astrology-about-us-1-btnn a button{border: 1px solid #ff002b;
+    border-radius: 3px;
+    background: #ff002b;
+    color: #fff;
+    padding:10px 30px;
+    font-size: 20px;
+    margin-top:6px;
+    text-align: center;
+    font-weight: 500;}
+.astrology-about-us-1-btnn a button:hover{background: #56a546;border: 1px solid #56a546;}   
+
+.as-order-detail-info .bs-wizard-step .active{background: #ff7200;}
+.as-profile-acc-info #hide_pass{margin-left: 10px;}
+.footer-news .form-control::placeholder {
+color:#6b6d7a;-webkit-placeholder:color:#6b6d7a;}
+
+/*Forgot Password*/
+.forgrt-password-btnnn a button{background: #ff002b;font-size: 20px;border-radius: 4px;    border: 1px solid #ff002b;
+font-weight: 500;border: none;color: #fff;padding: 8px 47px;margin-top:20px;float: left;}
+.forgrt-password-btnnn{text-align: center;margin: 0 auto}
+.forot-password-form{text-align: center;}
+.forot-password-form .input-group{text-align: center;margin: 0 auto;    width: 50%;height: 40px;}
+.forot-password-form .form-control{height: 45px;margin-top: 20px;}
+.forgrt-password-btnnn a button:hover{background: #56a546;color: #fff;border: 1px solid #56a546;}
+.forot-password-form{padding: 35px 0;}
+/*Forgot Password*/
+.links{background: #eee;}
+
+.bootbox .modal-dialog{width: 500px;}
+.bootbox .modal-body{padding: 25px 40px 12px;}
+.bootbox .modal-footer{padding: 6px 20px;}
+
+.dashboard_data .table > tbody > tr > td h5{font-size: 18px;margin: 0;}
